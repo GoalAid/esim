@@ -34,8 +34,8 @@ Finally, read reviews. Look for recent reviews from other travelers who have use
 
 By understanding your needs, comparing providers strategically, and employing smart purchasing habits, you can ensure your next international adventure is powered by seamless, affordable mobile connectivity, leaving you free to focus on making unforgettable memories.
 
-<footer class="site-footer">
+---
 <p align="center">
-  This site is maintained by © {{ site.time | date: "%Y" }} GoalAid
+  This site is maintained by © GoalAid
 </p>
-</footer>
+
